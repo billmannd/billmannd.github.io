@@ -1,0 +1,38 @@
+#body_img {
+	float: left;
+}
+
+#body_img div.col-md-4 {
+	margin: 30px, 10px, 10px, 30px;
+}
+
+body {
+	background-color: #e6e6e6;
+	color: black;
+}
+
+body div.container h1.text-center a{
+	font-size: 50px;
+	color: black;
+	font-family: monaco;
+}
+body div.container{
+	font-family: monaco;
+	font-size: 16px;
+}
+
+body div.container nav.navbar-default {
+	background-color: #e6e6e6;
+}
+
+#header {
+	padding: 20px, 20px, 20px, 20px;
+	text-align: center;
+	font-size: 20px;
+}
+
+a.active {
+	background-color: #0084b4;
+	color: #ffffff;
+	font-size: 22px;
+}
