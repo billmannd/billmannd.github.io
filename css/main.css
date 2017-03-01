@@ -9,6 +9,7 @@
 body {
 	background-color: #e6e6e6;
 	color: black;
+	font-size: 14px;
 }
 
 body div.container h1.text-center a{
@@ -35,4 +36,23 @@ a.active {
 	background-color: #0084b4;
 	color: #ffffff;
 	font-size: 22px;
+}
+
+ul.experience {
+	font-size: 12px;
+}
+
+ul.experience li img{
+	max-height: 50px;
+	max-width: 50px;
+
+}
+
+ul.experience ul li img{
+	max-height: 50px;
+	max-width: 50px;
+}
+
+li.ge_exp {
+	padding-left: 72px;
 }
