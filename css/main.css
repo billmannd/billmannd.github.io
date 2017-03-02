@@ -56,3 +56,9 @@ ul.experience ul li img{
 li.ge_exp {
 	padding-left: 72px;
 }
+
+div#quote p {
+	font-style: italic;
+	font-family: 'Playfair Display', 'Georgia', 'serif';
+	font-size: 18px;
+}
